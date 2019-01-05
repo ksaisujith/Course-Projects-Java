@@ -19,15 +19,15 @@ You have to test each word, i.e. each line, for the following properties:
 •The word is == ’.’.
 
 •The word includes a ’.’.
+<br><br>
+Explanation: <br>
+Let assume the file is:<br>
 
-Explanation: 
-Let assume the file is:
-
-a
-aba
-abb
-cd
-Hello World.
+a<br>
+aba<br>
+abb<br>
+cd<br>
+Hello World.<br><br><br>
 •´a’ has an ’a’ as part of the word.
 
 •´a’ is a palindrome anchored at the beginning and end of line
