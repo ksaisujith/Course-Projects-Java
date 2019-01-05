@@ -1,2 +1,2 @@
 # Java Programs
-All programs that are built while masters course using Java
+All programs that are built in Java course of masters degree
