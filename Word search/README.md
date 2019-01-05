@@ -1,3 +1,5 @@
+# Using Regular Expressions and Patterns
+
 Given is a file, each line of the file has a single word. A word consist of printable, visible characters. You have to read the file and print the word, if the word has specific properties, like being a palindrome. You have to the pattern class to determine if a word has a specific property, and you have to write your own method to determine if a word has a specific property.
 
 You have to test each word, i.e. each line, for the following properties:
