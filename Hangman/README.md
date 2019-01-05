@@ -1,5 +1,5 @@
 
-# Hangman
+# Hangman Game
 
 Program Description:
 
