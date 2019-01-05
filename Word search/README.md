@@ -2,41 +2,23 @@ Given is a file, each line of the file has a single word. A word consist of prin
 
 You have to test each word, i.e. each line, for the following properties:
 
-•
+•´a’ is part of the word.
 
-´a’ is part of the word.
+•Palindrome anchored at the beginning and end of line.
 
-•
+•Include a palindrome which is 2 characters long.
 
-Palindrome anchored at the beginning and end of line.
+•Include a palindrome which is 3 characters long.
 
-•
+•The word has at least one ’a’ in it.
 
-Include a palindrome which is 2 characters long.
+•The word consist only of ’a’s or ’b’s.
 
-•
+•´a’s or ’b’s can not be part of the word.
 
-Include a palindrome which is 3 characters long.
+•The word is == ’.’.
 
-•
-
-The word has at least one ’a’ in it.
-
-•
-
-The word consist only of ’a’s or ’b’s.
-
-•
-
-´a’s or ’b’s can not be part of the word.
-
-•
-
-The word is == ’.’.
-
-•
-
-The word includes a ’.’.
+•The word includes a ’.’.
 
 Explanation: 
 Let assume the file is:
@@ -46,24 +28,12 @@ aba
 abb
 cd
 Hello World.
-•
+•´a’ has an ’a’ as part of the word.
 
-´a’ has an ’a’ as part of the word.
+•´a’ is a palindrome anchored at the beginning and end of line
 
-•
+•´abb’ includes a palindrome which is 2 characters long
 
-´a’ is a palindrome anchored at the beginning and end of line
+•´cd’ is a word which does not include ’a’s or ’b’s.
 
-•
-
-´abb’ includes a palindrome which is 2 characters long
-
-•
-
-´cd’ is a word which does not include ’a’s or ’b’s.
-
-•
-
-´.’ is == to ’.’.
-
-
+•´.’ is == to ’.’.
