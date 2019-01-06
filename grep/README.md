@@ -1,6 +1,6 @@
 # Grep command
 
-This program implements a subset of [grep’s](https://linux.die.net/man/1/grep) functionlity.
+This program implements a subset of linux's [grep’s](https://linux.die.net/man/1/grep) functionlity.
 The grep utility searches any given input files, selecting lines that match one or more patterns. By default, a pattern matches an input line if the regular expression in the pattern matches the input line without its trailing newline. An empty expression matches every line. Each input line that matches at least one of the patterns is written to the standard output.
 
 
